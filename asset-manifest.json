@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/react-calc-imc/static/css/main.fd8a5ce3.css",
-    "main.js": "/react-calc-imc/static/js/main.f026cdcc.js",
-    "static/js/787.10a56187.chunk.js": "/react-calc-imc/static/js/787.10a56187.chunk.js",
-    "static/media/powered.png": "/react-calc-imc/static/media/powered.31688c4f015d2f42e203.png",
-    "index.html": "/react-calc-imc/index.html",
-    "main.fd8a5ce3.css.map": "/react-calc-imc/static/css/main.fd8a5ce3.css.map",
-    "main.f026cdcc.js.map": "/react-calc-imc/static/js/main.f026cdcc.js.map",
-    "787.10a56187.chunk.js.map": "/react-calc-imc/static/js/787.10a56187.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.fd8a5ce3.css",
-    "static/js/main.f026cdcc.js"
-  ]
+  "main.css": "/react-calc-imc/static/css/main.a97fce08.chunk.css",
+  "main.js": "/react-calc-imc/static/js/main.10180c64.chunk.js",
+  "main.js.map": "/react-calc-imc/static/js/main.10180c64.chunk.js.map",
+  "runtime~main.js": "/react-calc-imc/static/js/runtime~main.7e83b5ce.js",
+  "runtime~main.js.map": "/react-calc-imc/static/js/runtime~main.7e83b5ce.js.map",
+  "static/js/2.e75ca8e0.chunk.js": "/react-calc-imc/static/js/2.e75ca8e0.chunk.js",
+  "static/js/2.e75ca8e0.chunk.js.map": "/react-calc-imc/static/js/2.e75ca8e0.chunk.js.map",
+  "static/js/3.c70b6b5b.chunk.js": "/react-calc-imc/static/js/3.c70b6b5b.chunk.js",
+  "static/js/3.c70b6b5b.chunk.js.map": "/react-calc-imc/static/js/3.c70b6b5b.chunk.js.map",
+  "index.html": "/react-calc-imc/index.html",
+  "precache-manifest.5194021bd835dc76688b9a82fe3142ec.js": "/react-calc-imc/precache-manifest.5194021bd835dc76688b9a82fe3142ec.js",
+  "service-worker.js": "/react-calc-imc/service-worker.js",
+  "static/css/main.a97fce08.chunk.css.map": "/react-calc-imc/static/css/main.a97fce08.chunk.css.map",
+  "static/media/powered.png": "/react-calc-imc/static/media/powered.35ad4327.png"
 }
